@@ -1,0 +1,7 @@
+# 饮食管理
+
+.DS_Store
+__pycache__
+*.pyc
+.venv
+.agents/
